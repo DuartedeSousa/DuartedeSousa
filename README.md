@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou Duarte
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
@@ -42,10 +42,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 🎓 Atualmente estudo no **SESI e SENAI**
+- 💻 Estou aprendendo **JAVA e HTML**
+- 🎯 Meu objetivo é **Tornar o mundo um lugar melhor**
+- 📚 Gosto de aprender sobre **Arte**
 - ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
 ---
